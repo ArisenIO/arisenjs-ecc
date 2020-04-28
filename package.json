@@ -1,6 +1,6 @@
 {
-  "name": "arisenjs-ecc",
-  "version": "1.0.0",
+  "name": "@arisencore/ecc",
+  "version": "1.0.1",
   "description": "Elliptic curve cryptography functions",
   "keywords": "ECC, Private Key, Public Key, Signature, AES, Encryption, Decryption",
   "main": "lib/index.js",
